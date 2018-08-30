@@ -59,3 +59,5 @@ MTProtoKit消息处理序列图
 关于MTProto的一些介绍博客：[Telegram 之 MTProtoKit 架构分析](http://blog.makeex.com/2015/06/13/the-architecture-of-telegram-mtprotokit/)
 
 关于TLLanguage的一些介绍博客：[Telegram 之 TL Language](http://blog.makeex.com/2015/06/14/the-tl-language-of-telegram/)
+
+[Telegram网络层源码分析](https://shunix.com/telegram-connection/)
