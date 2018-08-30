@@ -24,7 +24,7 @@ MTProto会合并一些发送的消息
 
 使用TLLanguage作为消息描述
 
-TLLanguage是一个类似于脚本语言的文本，可以执行函数、多态、条件判断、多态等。MTProto通过将TLLanguage进行序列化
+TLLanguage是一个类似于脚本语言的文本，可以执行函数、多态、条件判断、多态等。MTProto通过将TLLanguage进行序列化发送至服务器来进行通讯，甚至可以执行一些脚本。
 
 ### 数据存储相关
 
