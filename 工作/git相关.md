@@ -11,3 +11,6 @@
 > 可能专业一些的还是要看这个教程
 > 
 > [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[gitkraken的ssh教程](https://www.cnblogs.com/fzuljz/p/7889098.html)
+[gitkraken教程](https://blog.csdn.net/jzd1997/article/details/79282399)
