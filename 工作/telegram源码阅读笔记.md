@@ -40,7 +40,7 @@ telegram桌面端没有数据库，而是通过将本地的缓存序列化成文
 
 ## 一些uml
 
-MTProtoKit的核心原型类图 
+MTProtoKit的核心原型类图
   
 ![核心原型图](http://blog.makeex.com/images/2015/06/13/01.png)
 
@@ -48,7 +48,7 @@ MTProtoKit消息处理序列图
   
 ![消息处理序列图](http://blog.makeex.com/images/2015/06/13/02.png)
 
-同步消息类图（因为消息id是由服务器时间戳算出来的 所以需要服务器时间做校准） 
+同步消息类图（因为消息id是由服务器时间戳算出来的 所以需要服务器时间做校准）
   
 ![同步消息类图](http://blog.makeex.com/images/2015/06/13/03.png)
 
